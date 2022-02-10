@@ -25,7 +25,8 @@ SECRET_KEY = 'django-insecure-ya6)nvfdnj!&p!84o#6#l^t#k&^8yf$wjl*jlg*o8u&5834s@e
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [*]
+
+ALLOWED_HOSTS = ['care-box-backend.herokuapp.com/','myawsomedjangoapp.herokuapp.com/' 'localhost', '127.0.0.1']
 
 
 # Application definition
